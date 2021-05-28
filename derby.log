@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 28 11:32:07 EEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0179-b21a-2218-000007000000 
+on database directory D:\Facultate\Anul2\'Semestrul 2'\'Programare Avansata pe Obiecte'\MedicalOfficeFinal\MedicalOfficeDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b1210ee 
+Loaded from file:/D:/Descarcari/db-derby-10.15.2.0-lib/db-derby-10.15.2.0-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=D:\Facultate\Anul2\Semestrul 2\Programare Avansata pe Obiecte\MedicalOfficeFinal
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
