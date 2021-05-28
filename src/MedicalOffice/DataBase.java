@@ -14,4 +14,6 @@ public class DataBase {
     static ArrayList<Appointment>appointments=new ArrayList<Appointment>();
 
 
+    public static void writeDatatoCsv(String s, String[] data) {
+    }
 }
